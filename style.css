@@ -73,5 +73,6 @@ body{
 .delete-task{
     color: #fff;
     background-color: #e60404;
+    padding: 0.7rem;
     border: 0px;
 }
