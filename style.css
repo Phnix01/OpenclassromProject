@@ -69,3 +69,9 @@ body{
     text-decoration: line-through;
     color: #acacac;
 }
+
+.delete-task{
+    color: #fff;
+    background-color: #e60404;
+    border: 0px;
+}
